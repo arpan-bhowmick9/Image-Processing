@@ -1,7 +1,7 @@
 # Image Processing
 
-Image Processing using OpenCV.
+Image Processing using OpenCV in Python.
 
-# Author 
+## Author 
 
 Arpan Bhowmik (@arpan-bhowmick9)
