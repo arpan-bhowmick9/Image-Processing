@@ -1,5 +1,7 @@
 # Image Processing
 
-## Image Processing using OpenCV
+Image Processing using OpenCV.
 
-### Author - Arpan Bhowmik (@arpan-bhowmick9)
+# Author 
+
+Arpan Bhowmik (@arpan-bhowmick9)
